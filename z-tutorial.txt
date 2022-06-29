@@ -1,0 +1,13 @@
+sveltekit                                                                      django
+
+__layout.svelte                                                               base.html
+<slot></slot> (no need to put it inside children template)            {% block content %} {% endblock %}
+
+
+
+
+
+
+
+Available domains:
+svelte.blog
