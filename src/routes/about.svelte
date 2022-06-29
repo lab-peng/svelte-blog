@@ -19,4 +19,8 @@
         margin: 20px auto;
         font-family: Jetbrains Mono;
     }
+
+    a {
+        text-decoration: none;
+    }
 </style>
