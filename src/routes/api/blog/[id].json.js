@@ -51,7 +51,7 @@ export async function get({ params }) {
 
     const blog = blogs.find(b => b._id == params.id)
 
-    console.log(blog)
+    // console.log(blog)
 
     if (blog) {
         return {
